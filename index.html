@@ -1,0 +1,413 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta name="twitter:creator" content="@crashbits">
+    <meta name="twitter:card" content="summary"><title>Humberto Ruiz | Web and Graphic Designer</title>
+    <link rel="shortcut icon" href="favicon.ico">
+
+  </head>
+  <body>
+
+    <style>
+    html,body{height:100%;font-size:100%}*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}body{background:white;color:white;padding:0;margin:0;font-family:"Source Sans Pro",sans-serif;font-weight:normal;font-style:normal;line-height:1;position:relative;cursor:default}img{-ms-interpolation-mode:bicubic;max-width:100%;height:auto;display:inline-block;vertical-align:middle}.left{float:left !important}.right{float:right !important}.clearfix{*zoom:1}.clearfix:before,.clearfix:after{content:" ";display:table;clear:both}.row{margin:0 auto;width:100%;max-width:62.5em;*zoom:1}.row:before,.row:after{content:" ";display:table;clear:both}.columns{padding-left:.9375em;padding-right:.9375em;width:100%;float:left}@media only screen{.columns.small-centered{margin-left:auto;margin-right:auto;float:none}.columns{position:relative;padding-left:.9375em;padding-right:.9375em;float:left}.small-6{width:50%}.small-10{width:83.33333%}.small-12{width:100%}[class*="column"]+[class*="column"].end{float:left}.small-offset-1{margin-left:8.33333% !important}}@media only screen and (min-width:40.063em){.columns{position:relative;padding-left:.9375em;padding-right:.9375em;float:left}.medium-10{width:83.33333%}[class*="column"]+[class*="column"].end{float:left}}@media only screen and (min-width:64.063em){.columns{position:relative;padding-left:.9375em;padding-right:.9375em;float:left}.large-4{width:33.33333%}.large-8{width:66.66667%}[class*="column"]+[class*="column"].end{float:left}}.text-center{text-align:center !important}div,h1,h3,p{margin:0;padding:0}a{color:#FFF;text-decoration:none;line-height:inherit}a img{border:0}p{font:normal 1rem/1.6 inherit;margin-bottom:1.25rem;text-rendering:optimizeLegibility}h1,h3{font-family:"Source Sans Pro",sans-serif;font-weight:300;font-style:normal;color:#FFF;text-rendering:optimizeLegibility;margin-top:.2rem;margin-bottom:.5rem;line-height:1.4}h1{font-size:3.236rem}h3{font-size:2rem}@media only screen and (min-width:40.063em){h1,h3{line-height:1.2}h1{font-size:4.236rem}h3{font-size:2.618rem}}.hide-for-large-up{display:inherit !important}@media only screen and (min-width:40.063em){.hide-for-large-up{display:inherit !important}}@media only screen and (min-width:64.063em){.hide-for-large-up{display:none !important}}header{background:#fff;position:fixed;z-index:20;right:0;left:0;top:0;width:100%;height:72px;-webkit-box-shadow:0 3px 5px 0 rgba(50,50,50,0.3);-moz-box-shadow:0 3px 5px 0 rgba(50,50,50,0.3);box-shadow:0 3px 5px 0 rgba(50,50,50,0.3)}header a{color:#29abe2 !important}header nav{height:100%}.logoh img{padding-top:9px;vertical-align:initial !important}header nav a,.logoh{line-height:75px;display:inline-block;-webkit-transition-duration:.3s;transition-duration:.3s;-webkit-transition-property:-webkit-transform;transition-property:transform;-webkit-transform:translateZ(0);-ms-transform:translateZ(0);transform:translateZ(0);box-shadow:0 0 1px rgba(0,0,0,0)}#inicio{height:100%;width:100%;background:#FFF;margin:0;overflow:hidden;padding-top:72px;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-align:center;-moz-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center;-webkit-box-pack:center;-moz-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;margin:0;height:100%;width:100%}.mybox h1{font-weight:700 !important;line-height:1;color:#29abe2}.mybox h3{color:#333 !important;line-height:.4}#about img{position:relative;z-index:5;margin-left:auto;margin-right:auto}@media only screen{header nav a{font-size:.9em;padding-left:.8em}.mybox h1{font-size:2.118em !important}.mybox h3{font-size:1.118em !important}#about img{top:-1.5rem !important}}@media only screen and (min-width :320px) and (max-width :568px) and (orientation :landscape){#avatar{height:50% !important;width:50% !important;margin-left:3.4em !important}#inicio h1{font-size:1.618rem !important;line-height:.8 !important}#inicio h3{font-size:1.118 !important;line-height:.2 !important}#inicio{padding-top:9%}}@media only screen and (min-width:40.063em){header nav a{font-size:1.309rem;padding-left:1.2em}.mybox h1{font-size:2.618em !important}.mybox h3{font-size:1.618em !important}#about img{top:-2.5em !important}}@media only screen and (min-width:64.063em){header nav a{font-size:1em;padding-left:1.5em}.mybox h1{font-size:3.427em !important}.mybox h3{font-size:2.118em !important}#about img{top:-3.5em !important}}@media only screen and (min-width:90.063em){header nav a{font-size:1.618em;padding-left:1.8em}.mybox h1{font-size:4.236em !important}.mybox h3{font-size:2.618em !important}}@media only screen and (min-width:120.063em){header nav a{font-size:2.118em;padding-left:1.8em}.mybox h1{font-size:4.236em !important}.mybox h3{font-size:2.618em !important}}#success,#error{display:none}#success span,#error span{display:block;height:50%;margin:auto;position:absolute;top:0;left:0;bottom:0;right:0}#success span p,#error span p{margin-top:13em;margin-right:auto;margin-left:auto}#success span p{color:#FFF}#error span p{color:red}.slide{-webkit-transition:all .25s ease-in-out;-moz-transition:all .25s ease-in-out;-o-transition:all .25s ease-in-out;transition:all .25s ease-in-out}.slide--reset{-webkit-transform:translateY(0);-ms-transform:translateY(0);transform:translateY(0)}.slide--up{-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}.slide--down{-webkit-transform:translateY(4em);-ms-transform:translateY(4em);transform:translateY(4em)}.animated{-webkit-animation-duration:.5s;-moz-animation-duration:.5s;-o-animation-duration:.5s;animation-duration:.5s;-webkit-animation-fill-mode:both;-moz-animation-fill-mode:both;-o-animation-fill-mode:both;animation-fill-mode:both}
+
+    .animation{-webkit-animation-duration:1.8s;animation-duration:1.8s;-webkit-animation-fill-mode:both;animation-fill-mode:both}@-webkit-keyframes fadeIn{0%{opacity:0}100%{opacity:1}}@keyframes fadeIn{0%{opacity:0}100%{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}@-webkit-keyframes fadeInDown{0%{opacity:0;-webkit-transform:translate3d(0,-60%,0);transform:translate3d(0,-60%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInDown{0%{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}.fadeInDown{-webkit-animation-name:fadeInDown;animation-name:fadeInDown}@-webkit-keyframes "fadeInLeft"{from{opacity:0;-webkit-transform:translate3d(-100%, 0, 0);transform:translate3d(-100%, 0, 0);}to{opacity:1;-webkit-transform:none;transform:none;}}@keyframes "fadeInLeft"{from{opacity:0;-webkit-transform:translate3d(-100%, 0, 0);transform:translate3d(-100%, 0, 0);}to{opacity:1;-webkit-transform:none;transform:none;}}.fadeInLeft{-webkit-animation-name:fadeInLeft;animation-name:fadeInLeft}@-webkit-keyframes "fadeInRight"{from{opacity:0;-webkit-transform:translate3d(100%, 0, 0);transform:translate3d(100%, 0, 0);}to{opacity:1;-webkit-transform:none;transform:none;}}@keyframes "fadeInRight"{from{opacity:0;-webkit-transform:translate3d(100%, 0, 0);transform:translate3d(100%, 0, 0);}to{opacity:1;-webkit-transform:none;transform:none;}}.fadeInRight{-webkit-animation-name:fadeInRight;animation-name:fadeInRight}
+      .sectiontittle{font-variant:small-caps;font-weight:700;}
+    </style>
+
+    <header class="container animation fadeInDown" id="header">
+      <div class="small-12 medium-10 columns small-centered">
+        <div class="clearfix">
+          <div class="logoh left">
+            <a href="#inicio"><img src="img/logo.svg" alt="webpage logo"></a>
+          </div>
+
+          <nav class="right">
+            <a href="#intro">Intro</a>
+            <a href="#work">Work</a>
+            <a href="#about">About me</a>
+            <a href="#contact">Contact</a>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <div id="inicio">
+      <div class="container mybox">
+        <div>
+          <div class="row" >
+            <div class="small-6 large-4 columns small-centered">
+              <img class="animation fadeIn" id="avatar" alt="primary avatar" src="img/avatarbig.svg">
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-12 large-8 columns small-centered">
+              <h1 class="text-center animation fadeInLeft">Hello! I'm Humberto.</h1>
+              <h3 class="text-center animation fadeInRight">I'm a Graphic and Web Designer.</h3>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+
+      <section class="container" id="intro">
+      <div class="row">
+          <div class="small-offset-1 large-offset-0 small-8 column end">
+            <h2 class="sectiontittle" style="color: #8e44ad;">//INTRO</h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="small-10 large-12 columns small-centered ">
+            <h2 class="text-left">I think design is all about solving problems,
+            that’s why I create beautiful but <strong class="yellow">useful</strong> things.</h2>
+          </div>
+          <div class="row padding">
+            <div class="small-10 large-12 columns small-centered">
+              <div class="row">
+                <div class="medium-6 large-3 columns ">
+                  <img src="img/web.svg" alt="web design">
+                  <h3 class="yellow text-center">WEB DESIGN</h3>
+                  <p class="text-center">Responsibe web design, UI and UX design, Web Apps Interface.</p>
+                </div>
+                <div class="medium-6 large-3 columns ">
+                  <img src="img/design.svg" alt="graphic design">
+                  <h3 class="yellow text-center">GRAPHIC DESIGN</h3>
+                  <p class="text-center">Logos, Corporate Identity, Pictographs, Banners.<br><br></p>
+                </div>
+                <div class="medium-6 large-3 columns">
+                  <img src="img/illustration.svg" alt="vector illustration">
+                  <h3 class="yellow text-center">ILLUSTRATION</h3>
+                  <p class="text-center">Character design, Infographic, Graphic Elements.</p>
+                </div>
+                <div class="medium-6 large-3 columns ">
+                  <img src="img/editorial.svg" alt="editorial design">
+                  <h3 class="yellow text-center">EDITORIAL DESIGN</h3>
+                  <p class="text-center">Magazine, Newspaper, Business Card, Poster, Flyers.</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+
+
+      <section class="container" id="work">
+        <div class="row">
+          <div class="small-offset-1 large-offset-0 small-2 column end">
+            <h2 class="sectiontittle" style="color: #27ae60;">//WORK</h2>
+          </div>
+        </div>
+        <div class="row padding">
+          <div class="row">
+            <div class="small-offset-1 large-offset-0 small-10 large-4 column">
+                  <a><h3>Illustration / Graphics</h3></a>
+                </div>
+          </div>
+          <div class="row">
+            <div id="owl1" class="owl-carousel small-12 small-centered">
+              <div class="citem"><img src="img/1.jpg"></div>
+              <div class="citem"><img src="img/2.jpg"></div>
+              <div class="citem"><img src="img/3.jpg"></div>
+              <div class="citem"><img class="lazyOwl" data-src="img/4.jpg"></div>
+              <div class="citem"><img class="lazyOwl" data-src="img/5.jpg"></div>
+              <div class="citem"><img class="lazyOwl" data-src="img/6.jpg"></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="small-offset-1 large-offset-0 small-10 large-4 column">
+                  <a><h3>Web and digital design</h3></a>
+                </div>
+          </div>
+          <div class="row">
+            <div id="owl2" class="owl-carousel small-12 small-centered">
+              <div class="citem"><img src="img/7.jpg"></div>
+              <div class="citem"><img src="img/8.jpg"></div>
+              <div class="citem"><img src="img/9.jpg"></div>
+              <div class="citem"><img class="lazyOwl" data-src="img/10.jpg"></div>
+              <div class="citem"><img class="lazyOwl" data-src="img/11.jpg"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+        <section class="container" id="about">
+        <div class="row">
+          <div class="small-offset-1 large-offset-0 small-8 column end">
+            <h2 class="sectiontittle" style="color: #c0392b;">//ABOUT ME</h2>
+          </div>
+        </div>
+
+        <div class="row ">
+            <div class="small-10 small-offset-1 large-offset-0 large-4 columns ">
+            <h3>Hi, my name is Humberto and I'm a graphic and web designer. I’m very passionate about design and psychology. I like to create, make things simple and also useful, as hobby I like to read and play videogames.</h3>
+            </div>
+            <div class="hide-for-large-up small-10 small-offset-1 large-8 columns end">
+            <img src="img/skills.svg">
+            </div>
+            <div class="show-for-large-up large-8 columns ">
+            <img src="img/skills.svg" alt="my skills in diferent areas">
+            </div>
+          </div>
+
+       </section>
+
+
+        <section class="container" id="contact">
+
+        <div class="row">
+          <div class="small-offset-1 large-offset-0 small-5 column end">
+            <h2 class="sectiontittle" style="color: #2980b9;">//CONTACT</h2>
+          </div>
+        </div>
+
+      <div class="row clearfix">
+            <div class="small-10 small-centered  large-offset-0 medium-6 large-uncentered large-6 columns ">
+
+               <h3><strong>Thanks for stopping by.</strong><br> I'll love to hear what you're doing.</h3>
+              <div id="form-main">
+                <div id="form-div">
+                  <form class="form" id="contact-form" name="contact" method="post" novalidate="novalidate">
+                    <p class="name">
+                      <input id="name" name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Name" required=""/></p>
+                    <p class="email">
+                      <input  id="email" name="email" type="text" class="validate[required,custom[email]] feedback-input" placeholder="Email" required=""/>
+                    </p>
+                    <p class="message">
+                      <textarea id="message" name="message"  class="validate[required,length[6,300]] feedback-input" placeholder="Comment" required=""></textarea>
+                    </p>
+                    <div class="submit">
+                      <button type="submit" name="submit" class="text-center button-blue" id="submit">SEND</button>
+                      <div class="ease"></div>
+                    </div>
+                  </form>
+
+                  <div id="success">
+                    <span class="green text-center">
+                        <p>Your message was sent successfully! I will be in touch as soon as I can.</p>
+                    </span>
+                  </div>
+                  <div id="error">
+                      <span class="text-center">
+                          <p>Something went wrong, try refreshing and submitting the form again.</p>
+                      </span>
+                  </div>
+
+              </div>
+            </div>
+          </div>
+           <div class="show-for-large-up large-6 columns">
+            <img id="me" src="img/me.svg" alt="humberto ruiz">
+          </div>
+        </div>
+
+       </section>
+
+       <footer class="container" id="footer">
+        <div class="row">
+          <div class="small-10 medium-6 large-4 small-centered large-uncentered columns">
+            <nav id="social">
+              <a href="http://twitter.com/crashbits"><i id="twitter" class="icon-twitter"></i></a>
+              <a href="http://dribbble.com/crashbits"><i id="dribbble" class="icon-dribbble"></i></a>
+              <a href="http://linkedin.com/profile/view?id=159413209"><i id="linkedin" class="icon-linkedin"></i></a>
+              <a href="mailto:iam@humbertoruiz.co"><i id="mail" class="icon-mail2"></i></a>
+            </nav>
+          </div>
+        </div>
+       </footer>
+
+<a class="btt btn btn--plain" href="#" id="btt">TOP <i class="icon icon--up"></i></a>
+
+
+  <!--CSS-->
+
+  <link href="css/humberto.min.css" rel="stylesheet"/>
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700' rel='stylesheet'>
+  <link href="css/patterns.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="owl-carousel/owl.carousel.css">
+  <link rel="stylesheet" href="owl-carousel/owl.theme.css">
+  
+  <style type="text/css">
+  .citem{
+    padding: 20px 0px;
+    margin: 10px;
+  }
+  .citem img{
+    width: auto;
+    height: 100%
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+  }
+  </style>
+
+
+ 
+
+ 
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.7.0/headroom.min.js"></script>
+    <script src="owl-carousel/owl.carousel.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.14.0/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+    <script>
+      $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    </script>
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-49101562-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("#owl1").owlCarousel({
+          items : 3,
+          itemsCustom : false,
+          itemsDesktop : [1199,4],
+          itemsDesktopSmall : [980,3],
+          itemsTablet: [768,2],
+          itemsTabletSmall: false,
+          itemsMobile : [479,1],
+          singleItem : false,
+          itemsScaleUp : false,
+          lazyLoad : true,
+          lazyEffect : "fade",
+        });
+      });
+      $(document).ready(function() {
+        $("#owl2").owlCarousel({
+          items : 3,
+          itemsCustom : false,
+          itemsDesktop : [1199,4],
+          itemsDesktopSmall : [980,3],
+          itemsTablet: [768,2],
+          itemsTabletSmall: false,
+          itemsMobile : [479,1],
+          singleItem : false,
+          itemsScaleUp : false,
+          lazyLoad : true,
+          lazyEffect : "fade",
+        });
+      });
+    </script>
+    <script>
+    (function() {
+    var header = new Headroom(document.querySelector("#header"), {
+        tolerance: 5,
+        offset : 40,
+        classes: {
+          initial: "slide",
+          pinned: "slide--reset",
+          unpinned: "slide--up"
+        }
+    });
+    header.init();
+
+    var btt = new Headroom(document.querySelector("#btt"), {
+        offset : 300,
+        classes : {
+            initial: "animated",
+            pinned: "slideUp",
+            unpinned: "slideDown"
+        }
+    });
+    btt.init();
+    }());
+    </script>
+    <script>
+      $(function() {
+          $('#contact-form').validate({
+              rules: {
+                  name: {
+                      required: true,
+                      minlength: 2
+                  },
+                  email: {
+                      required: true,
+                      email: true
+                  },
+                  message: {
+                      required: true
+                  },
+              },
+              messages: {
+                  name: {
+                      required: "come on, you have a name don't you?",
+                      minlength: "your name must consist of at least 2 characters"
+                  },
+                  email: {
+                      required: "no email, no message"
+                  },
+                  message: {
+                      required: "um...yea, you have to write something to send this form.",
+                      minlength: "thats all? really?"
+                  },
+              },
+              submitHandler: function(form) {
+                  $(form).ajaxSubmit({
+                      type:"POST",
+                      data: $(form).serialize(),
+                      url:"process.php",
+                      success: function() {
+                          $('#contact-form :input').attr('disabled', 'disabled');
+                          $('#contact-form').fadeTo( "slow", 0.15, function() {
+                              $(this).find(':input').attr('disabled', 'disabled');
+                              $(this).find('label').css('cursor','default');
+                              $('#success').fadeIn();
+                          });
+                      },
+                      error: function() {
+                          $('#contact-form').fadeTo( "slow", 0.15, function() {
+                              $('#error').fadeIn();
+                          });
+                      }
+                  });
+              }
+          });
+      });
+    </script>
+    <script type="text/javascript">
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:56109,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+  </body>
+</html>
